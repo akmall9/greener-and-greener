@@ -1,0 +1,3 @@
+# cron / manual run logs
+*.log
+.green.log
